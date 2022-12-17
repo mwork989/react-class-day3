@@ -1,0 +1,72 @@
+{
+    "stocks": [{
+      "id": 1,
+      "stockName": "BioScrip, Inc.",
+      "stockMarketCap": "$306.09M",
+      "stockMSector": "Health Care",
+      "symbol": "BIOS"
+    }, {
+      "id": 2,
+      "stockName": "RiceBran Technologies",
+      "stockMarketCap": "$9.62M",
+      "stockMSector": "Consumer Non-Durables",
+      "symbol": "RIBT"
+    }, {
+      "id": 3,
+      "stockName": "John Hancock Investors Trust",
+      "stockMarketCap": "$152.46M",
+      "stockMSector": "n/a",
+      "symbol": "JHI"
+    }, {
+      "id": 4,
+      "stockName": "Yatra Online, Inc.",
+      "stockMarketCap": "$398.74M",
+      "stockMSector": "Consumer Services",
+      "symbol": "YTRA"
+    }, {
+      "id": 5,
+      "stockName": "Restaurant Brands International Inc.",
+      "stockMarketCap": "$14.34B",
+      "stockMSector": "Consumer Services",
+      "symbol": "QSR"
+    }, {
+      "id": 6,
+      "stockName": "Fastenal Company",
+      "stockMarketCap": "$12.84B",
+      "stockMSector": "Consumer Services",
+      "symbol": "FAST"
+    }, {
+      "id": 7,
+      "stockName": "Cavium, Inc.",
+      "stockMarketCap": "$4.48B",
+      "stockMSector": "Technology",
+      "symbol": "CAVM"
+    }, {
+      "id": 8,
+      "stockName": "South Jersey Industries, Inc.",
+      "stockMarketCap": "$2.89B",
+      "stockMSector": "Public Utilities",
+      "symbol": "SJI"
+    }, {
+      "id": 9,
+      "stockName": "Eaton Vance Senior Income Trust",
+      "stockMarketCap": "$255.6M",
+      "stockMSector": "n/a",
+      "symbol": "EVF"
+    }, {
+      "id": 10,
+      "stockName": "WisdomTree Barclays Interest Rate Hedged U.S. Aggregate Bond F",
+      "stockMarketCap": "$23.97M",
+      "stockMSector": "n/a",
+      "symbol": "AGZD"
+    }],
+    "names":["1","2","3"],
+    "courses":[
+        {"name":"react", "date":"10/01/2021"},
+        {"name":"react1", "date":"10/01/2021"},
+        {"name":"react2", "date":"10/01/2021"}
+    ],
+    "userRegistration":[
+      
+    ]
+  }
